@@ -1,3 +1,11 @@
-name: Your New Jekyll Site
+name: Angry Gecko
 markdown: redcarpet
 pygments: true
+safe: true
+timezone: Europe/London
+encoding: utf-8
+keep_files: ['.git']
+redcarpet:
+    extensions: ['smart']
+# source: .
+# desnination: _site

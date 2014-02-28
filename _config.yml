@@ -1,4 +1,21 @@
+# Website config
+
 name: Angry Gecko
+
+navigation:
+  - title: Home
+    url: /
+  - title: Who We Are
+    url: /who-we-are/
+  - title: How You Can Help
+    url: /how-you-can-help/
+  - title: Sponsors
+    url: /sponsors/
+  - title: Contact
+    url: /contact/
+
+# Jekyll config stuff
+
 markdown: redcarpet
 pygments: true
 safe: true

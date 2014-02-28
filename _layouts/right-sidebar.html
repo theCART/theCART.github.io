@@ -42,10 +42,15 @@
 									<!-- Nav -->
 										<nav id="nav">
 											<ul>
-												<li><a href="index.html">Welcome</a></li>
-												<li><a href="left-sidebar.html">Left Sidebar</a></li>
-												<li class="current_page_item"><a href="right-sidebar.html">Right Sidebar</a></li>
-												<li><a href="no-sidebar.html">No Sidebar</a></li>
+												{% for link in site.navigation %}
+													{% assign current = nil %}
+													{% if page.url contains link.url %}
+														{% assign current = ' class="current_page_item"' %}
+													{% endif %}
+													<li{{ current }}>
+														<a href="{{ link.url }}">{{ link.title }}</a>
+													</li>
+												{% endfor %}
 											</ul>
 										</nav>
 								

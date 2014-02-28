@@ -1,8 +1,8 @@
 ---
 layout: home-banner
 title: Home
-banner_heading: We are making an Electric Car!
-banner_subheading: To compete in the <a href="http://www.greenpower.co.uk/racing/formula24">Greenpower F24 race</a>.
+banner_heading: We are making...
+banner_subheading: an Electric Car to compete in the <a href="http://www.greenpower.co.uk/racing/formula24">Greenpower F24 race</a>!
 sidebar_content: |
  <section>
  <h3>Subheading</h3>

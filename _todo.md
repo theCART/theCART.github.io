@@ -1,0 +1,6 @@
+- [ ] favicon
+- [ ] random stuff in footer
+- [ ] contact details in footer
+- [ ] images across various parts of the site
+- [ ] sidebar stuff across various parts of the site
+- [ ] make logo into link

@@ -9,11 +9,6 @@
 	background: #99DE59;
 }
 
-#banner-wrapper
-{
-	padding-bottom: 1.75em;
-}
-
 body
 {
 	font-family: 'Maven Pro', 'Verdana', sans-serif;
@@ -37,6 +32,32 @@ h1, h2, h3, h4, h5, h6
 	font-family: 'Ubuntu', 'Arial', sans-serif;
 	font-weight: 700;
 }
+
+#banner-wrapper
+{
+	padding-bottom: 1.75em;
+}
+#banner-wrapper p
+{
+	color: #696969;
+}
+
+.button.alt
+		{
+			background: #E0E0E0;
+			color: #444;
+		}
+
+			.button.alt:hover
+			{
+				background: #DBDBDB;
+			}
+
+			.button.alt:active
+			{
+				background: #D6D6D6;
+			}
+
 /* Font size adjustments in the main-wrapper section only. EM's only */
 #main-wrapper
 {
@@ -53,6 +74,38 @@ h1, h2, h3, h4, h5, h6
 #main-wrapper .button
 {
 	font-size: 1.1em;
+}
+#main-wrapper #content ul
+{
+	padding-left: 2.4em;
+}
+#main-wrapper #content ul li
+{
+	list-style: disc;
+}
+#main-wrapper #content ul li ul li
+{
+	list-style: circle;
+}
+#main-wrapper #content ul li ul li ul li
+{
+	list-style: square;
+}
+#main-wrapper #content ul.fa-ul
+{
+	padding-left: none;
+}
+#main-wrapper #content ul.fa-ul li
+{
+	list-style: none;
+}
+#main-wrapper #content ul.fa-ul li ul li
+{
+	list-style: none;
+}
+#main-wrapper #content ul.fa-ul li ul li ul li
+{
+	list-style: none;
 }
 /* */
 /*

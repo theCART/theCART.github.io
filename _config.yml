@@ -17,8 +17,59 @@ navigation:
     url: /contact/
 
 footer_copyright: |
- &copy; Shaun S. 2013-2014 All rights reserved. | Website design: <a href="https://github.com/technicalguy">Shaun S</a> | Template design: <a href="http://html5up.net/">HTML5 UP</a> | <a href="http://validator.w3.org/check?uri=http%3A%2F%2Fangrygecko.org%2F">HTML 5 Valid</a>
+ &copy; Shaun S. 2013-2014 All rights reserved. | <a href="http://validator.w3.org/check?uri=http%3A%2F%2Fangrygecko.org%2F">HTML 5 Valid</a> | Website design: <a href="https://github.com/technicalguy">Shaun S</a> | Photography: <a href="https://www.flickr.com/photos/insertphotoshere/">Shaun S</a> | Template design: <a href="http://html5up.net/">HTML5 UP</a>
 
+footer_main: |
+ <div class="3u">
+   <!-- Links -->
+     <section class="widget-links">
+       <h2>Greenpower</h2>
+       <ul class="style2">
+         <li><a href="http://www.greenpower.co.uk/">Greenpower Education Trust</a></li>
+         <li><a href="http://www.greenpower.co.uk/racing/formula24">IET Formula 24</a></li>
+         <li><a href="http://www.greenpower.co.uk/events/">Greenpower Events</a></li>
+       </ul>
+     </section>
+ 
+ </div>
+ <div class="3u">
+ 
+   <!-- Links -->
+     <section class="widget-links">
+       <h2>Sponsors</h2>
+       <ul class="style2">
+         <li><a href="/contact/">You could be here</a></li>
+       </ul>
+     </section>
+ 
+ </div>
+ <div class="3u">
+ 
+   <!-- Links -->
+     <section class="widget-links">
+       <h2>Sponsors</h2>
+       <ul class="style2">
+         <li><a href="/contact/">This space is for sale</a></li>
+       </ul>
+     </section>
+ 
+ </div>
+ <div class="3u">
+ 
+   <!-- Contact -->
+     <section class="widget-contact last">
+       <h2><a href="/contact/">Contact Us</a></h2>
+       <ul class="fa-ul">
+        <li><i class="fa-li fa fa-envelope"></i>Chelsea Academy,<br />
+                                                Lots Road,<br />
+                                                London,<br />
+                                                SW10 0AB</li>
+        <li><i class="fa-li fa fa-phone-square"></i>020 7376 3019</li>
+        <li><i class="fa-li fa fa-globe"></i><a href="http://chelsea-academy.org/">chelsea-academy.org</a></li>
+       </ul>
+     </section>
+ 
+ </div>
 
 #######################
 # Jekyll config stuff #

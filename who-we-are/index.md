@@ -3,25 +3,8 @@ layout: right-sidebar
 title: Who We Are
 sidebar_content: |
  <section>
- <h3>Subheading</h3>
- Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. 
- Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. 
- Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi 
- consequat etiam.
- <footer>
- <a href="#" class="button fa fa-info-circle">Find out more</a>
- </footer>
- </section>
- <section>
- <h3>Subheading</h3>
- <ul class="style2">
- <li><a href="#">Amet turpis, feugiat et sit amet</a></li>
- <li><a href="#">Ornare in hendrerit in lectus</a></li>
- <li><a href="#">Semper mod quis eget mi dolore</a></li>
- <li><a href="#">Quam turpis feugiat sit dolor</a></li>
- <li><a href="#">Amet ornare in hendrerit in lectus</a></li>
- <li><a href="#">Semper mod quisturpis nisi</a></li>
- </ul>
+ <div class="h2-break"></div>
+ <a href="/images/angry-gecko-03-who-we-are-large.png" class="image image-full" data-lighter><img src="/images/angry-gecko-03-who-we-are.jpg" alt="Side view of the Angry Gecko car frame" /></a>
  </section>
 ---
 ## {{ page.title }}

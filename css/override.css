@@ -64,7 +64,21 @@ h1, h2, h3, h4, h5, h6
 	display: inline-block;
 	padding-left: .5em;
 	padding-right: .5em;
-	margin-right: 1em;
+}
+
+#copyright a
+{
+	text-decoration: none;
+}
+
+#copyright a span
+{
+	text-decoration: underline;
+}
+
+#copyright a :hover
+{
+	text-decoration: none;
 }
 
 .button.alt

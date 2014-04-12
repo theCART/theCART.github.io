@@ -18,10 +18,10 @@ navigation:
 
 footer_copyright: |
  <div class="footer-element">&copy; Shaun S. 2013-2014 All rights reserved.</div>
- <div class="footer-element"><a href="http://validator.w3.org/check?uri=http%3A%2F%2Fangrygecko.org%2F"><i class="fa fa-html5"></i> HTML 5 Valid</a></div>
- <div class="footer-element">Website design: <a href="https://github.com/technicalguy"><i class="fa fa-github-square"></i> Shaun S</a></div>
- <div class="footer-element">Photography: <a href="https://www.flickr.com/photos/insertphotoshere/"><i class="fa fa-flickr"></i> Shaun S</a></div>
- <div class="footer-element">Template design: <a href="http://html5up.net/">HTML5 UP</a></div>
+ <div class="footer-element"><a href="http://validator.w3.org/check?uri=http%3A%2F%2Fangrygecko.org%2F"><i class="fa fa-html5"></i> <span>HTML 5 Valid</span></a></div>
+ <div class="footer-element">Website design: <a href="https://github.com/technicalguy"><i class="fa fa-github-square"></i> <span>Shaun S</span></a></div>
+ <div class="footer-element">Photography: <a href="https://www.flickr.com/photos/insertphotoshere/"><i class="fa fa-flickr"></i> <span>Shaun S</span></a></div>
+ <div class="footer-element">Template design: <a href="http://html5up.net/"><span>HTML5 UP</span></a></div>
 
 footer_main: |
  <div class="3u">

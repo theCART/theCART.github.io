@@ -9,18 +9,8 @@ banner_buttons: |
  <li><a href="/who-we-are/" class="button alt big fa fa-question-circle">More info</a></li>
  </ul>
 left_sidebar: |
- <h3>More free stuff</h3>
- <div class="grid">
- 	<div class="row no-collapse half">
- 		<div class="6u"><a href="http://html5up.net/minimaxing/" class="image image-full"><img src="images/pic04.jpg" alt="" /></a></div>
- 		<div class="6u"><a href="http://html5up.net/halcyonic/" class="image image-full"><img src="images/pic05.jpg" alt="" /></a></div>
- 	</div>
- 	<div class="row no-collapse half">
- 		<div class="6u"><a href="http://html5up.net/arcana/" class="image image-full"><img src="images/pic06.jpg" alt="" /></a></div>
- 		<div class="6u"><a href="http://html5up.net/zerofour/" class="image image-full"><img src="images/pic07.jpg" alt="" /></a></div>
- 	</div>
- </div>
- <a href="http://html5up.net/" class="button fa fa-file-text-o">More</a>
+ <h2 class="no-mobile">&nbsp;</h2>
+ <a href="images/angry-gecko-00-sideview-2x1-large.png" class="image image-full" data-lighter><img src="images/angry-gecko-00-sideview-2x1.jpg" alt="Side view of the Angry Gecko car frame" /></a>
 ---
 ## So what's this all about?
 

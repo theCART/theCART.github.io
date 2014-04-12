@@ -58,6 +58,11 @@ h1, h2, h3, h4, h5, h6
 				background: #D6D6D6;
 			}
 
+.lighter a
+{
+	text-decoration: none;
+}
+
 /* Font size adjustments in the main-wrapper section only. EM's only */
 #main-wrapper
 {

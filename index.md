@@ -14,6 +14,6 @@ sidebar_content: |
 ---
 ## So what's this all about?
 
-We’re a group of students building and designing an electric car using batteries as a power source. We will be competing in the [Greenpower IET Formula F24](http://www.greenpower.co.uk/racing/formula24) Race at the end of the year which will be taking place across the country. The young engineers working on this project are between 13 and 19 years old. Most of the people taking part in this project intend to study mechanical engineering in the near future.
+We’re a group of students building and designing an electric car using batteries as a power source. We will be competing in the [Greenpower IET Formula F24](http://www.greenpower.co.uk/racing/formula24) race at the end of the year which will be taking place across the country. The young engineers working on this project are between 13 and 19 years old. Most of the people taking part in this project intend to study mechanical engineering in the near future.
 
 The electric car enrichment is an exciting prospect for young, aspiring engineers to develop their range of knowledge and skills in a fun and educational way. This is an exciting opportunity for everyone at [Chelsea Academy](http://chelsea-academy.org/), as this is the first time that we are participating in this fantastic competition.

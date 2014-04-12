@@ -54,6 +54,19 @@ h1, h2, h3, h4, h5, h6
 	color: #696969;
 }
 
+#copyright
+{
+	text-align: justify;
+}
+
+#copyright .footer-element
+{
+	display: inline-block;
+	padding-left: .5em;
+	padding-right: .5em;
+	margin-right: 1em;
+}
+
 .button.alt
 		{
 			background: #E0E0E0;

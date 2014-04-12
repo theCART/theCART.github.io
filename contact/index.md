@@ -12,7 +12,7 @@ sidebar_content: |
 If you have any questions about what we are doing or would be interested in sponsoring us, please do not hesitate to contact us.
 
 <ul class="fa-ul">
-	<li><i class="fa-li fa fa-envelope"></i>Chelsea Academy,<br />
+	<li><i class="fa-li fa fa-building-o"></i>Chelsea Academy,<br />
 Lots Road,<br />
 London,<br />
 SW10 0AB</li>

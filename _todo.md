@@ -1,6 +1,8 @@
 - [ ] favicon
 - [ ] better stuff in contact page
 - [ ] social networks
+- [x] google+ page
+- [x] facebook page
 - [x] random stuff in footer
 - [x] contact details in footer
 - [x] images across various parts of the site

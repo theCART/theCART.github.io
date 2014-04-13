@@ -9,7 +9,15 @@ sidebar_content: |
 ---
 ##{{ page.title }}
 
-If you have any questions about what we are doing or would be interested in sponsoring us, please do not hesitate to contact us.
+If you have any questions about what we are doing or would be interested in sponsoring us, please do not hesitate to contact via:
+
+<ul class="fa-ul">
+	<li><a href="https://www.facebook.com/angry.gecko.cart"><i class="fa-li fa fa-facebook-square"></i>Facebook</a></li>
+	<li><a href="https://plus.google.com/109525757211133772308"><i class="fa-li fa fa-google-plus-square"></i>Google+</a></li>
+	<li><i class="fa-li fa fa-envelope"></i>Email coming soon</a></li>
+</ul>
+
+If you would like to visit and see our car then just head over to:
 
 <ul class="fa-ul">
 	<li><i class="fa-li fa fa-building-o"></i>Chelsea Academy,<br />
@@ -19,5 +27,3 @@ SW10 0AB</li>
 	<li><i class="fa-li fa fa-phone-square"></i>020 7376 3019</li>
 	<li><i class="fa-li fa fa-globe"></i><a href="http://chelsea-academy.org/">chelsea-academy.org</a></li>
 </ul>
-
-Our social network pages are currently under development.

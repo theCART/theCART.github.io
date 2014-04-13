@@ -9,7 +9,7 @@ sidebar_content: |
 ---
 ##{{ page.title }}
 
-The car is currently under development and we are working tirelessly to make sure that we have a completed vehicle to race at [Goodwood](http://www.goodwood.co.uk/home.aspx) this year. However, we will be needing as much support as possible from you to ensure that we stand a great chance of competing, and winning, in the Greenpower race.
+The car is currently under development and we are working tirelessly to make sure that we have a completed vehicle to race at [Goodwood](http://www.goodwood.co.uk/home.aspx) this year. However, we will be needing as much support as possible from you to ensure that we stand a great chance of competing in the Greenpower race.
 
 Here are some of the ways in which you can help us:
 

@@ -1,6 +1,8 @@
 - [ ] favicon
-- [ ] random stuff in footer
-- [ ] contact details in footer
-- [ ] images across various parts of the site
-- [ ] sidebar stuff across various parts of the site
+- [ ] better stuff in contact page
+- [ ] social networks
+- [x] random stuff in footer
+- [x] contact details in footer
+- [x] images across various parts of the site
+- [x] sidebar stuff across various parts of the site
 - [x] make logo into link

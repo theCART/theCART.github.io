@@ -40,7 +40,7 @@ footer_main: |
  
    <!-- Links -->
      <section class="widget-links">
-       <h2>Sponsors</h2>
+       <h2><a href="/sponsors/">Sponsors</a></h2>
        <ul class="style2">
          <li><a href="/contact/">You could be here</a></li>
        </ul>
@@ -51,7 +51,7 @@ footer_main: |
  
    <!-- Links -->
      <section class="widget-links">
-       <h2>Sponsors</h2>
+       <h2><a href="/sponsors/">Sponsors</a></h2>
        <ul class="style2">
          <li><a href="/contact/">This space is for sale</a></li>
        </ul>

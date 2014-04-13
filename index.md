@@ -9,7 +9,7 @@ banner_buttons: |
  <li><a href="/who-we-are/" class="button alt big fa fa-question-circle">More info</a></li>
  </ul>
 sidebar_content: |
- <div class="h2-break"></div>
+ <div class="h2-break no-mobile"></div>
  <a href="/images/angry-gecko-00-sideview-2x1-large.png" class="image image-full" data-lighter><img src="/images/angry-gecko-00-sideview-2x1.jpg" alt="Side view of the Angry Gecko car frame" /></a>
 ---
 ## So what's this all about?

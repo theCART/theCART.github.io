@@ -1,6 +1,7 @@
-- [ ] favicon
-- [ ] better stuff in contact page
+- [x] favicon
+- [x] better stuff in contact page
 - [ ] social networks
+- [ ] twitter account
 - [x] google+ page
 - [x] facebook page
 - [x] random stuff in footer

@@ -237,12 +237,15 @@
 
 	#logo
 	{
+		overflow: hidden;
 	}
 
 		#logo img
 		{
+			position: relative;
 			float: left;
-			width: 100%;
+			width: 108.4%;
+			margin-left: -4%;
 			padding: 0 26px 0 26px;
 		}
 

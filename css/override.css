@@ -39,6 +39,11 @@ h1, h2, h3, h4, h5, h6
 	height: 4.2em;
 }
 
+.clear-both
+{
+	clear: both;
+}
+
 #nav ul li a
 {
 	font-family: 'Ubuntu', 'Arial', sans-serif;

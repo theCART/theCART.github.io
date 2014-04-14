@@ -4,7 +4,7 @@ title: How You Can Help
 sidebar_content: |
  <section>
  <div class="h2-break"></div>
- <a href="/images/angry-gecko-02-batteries-large.png" class="image image-full" data-lighter><img src="/images/angry-gecko-02-batteries.jpg" alt="Batteries" /></a>
+ <a href="/images/angry-gecko-02-batteries-large.png" class="image image-full" data-lighter data-width="1344" data-height="900"><img src="/images/angry-gecko-02-batteries.jpg" alt="Batteries" /></a>
  </section>
 ---
 ##{{ page.title }}

@@ -4,7 +4,7 @@ title: Who We Are
 sidebar_content: |
  <section>
  <div class="h2-break"></div>
- <a href="/images/angry-gecko-03-who-we-are-large.png" class="image image-full" data-lighter><img src="/images/angry-gecko-03-who-we-are.jpg" alt="Side view of the Angry Gecko car frame" /></a>
+ <a href="/images/angry-gecko-03-who-we-are-large.png" class="image image-full" data-lighter data-width="1344" data-height="900"><img src="/images/angry-gecko-03-who-we-are.jpg" alt="Side view of the Angry Gecko car frame" /></a>
  </section>
 ---
 ## {{ page.title }}

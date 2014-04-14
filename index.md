@@ -10,7 +10,7 @@ banner_buttons: |
  </ul>
 sidebar_content: |
  <div class="h2-break no-mobile"></div>
- <a href="/images/angry-gecko-00-sideview-2x1-large.png" class="image image-full" data-lighter><img src="/images/angry-gecko-00-sideview-2x1.jpg" alt="Side view of the Angry Gecko car frame" /></a>
+ <a href="/images/angry-gecko-00-sideview-2x1-large.png" class="image image-full" data-lighter data-width="1600" data-height="800"><img src="/images/angry-gecko-00-sideview-2x1.jpg" alt="Side view of the Angry Gecko car frame" /></a>
 ---
 ## So what's this all about?
 

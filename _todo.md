@@ -1,7 +1,8 @@
-- [x] favicon
-- [x] better stuff in contact page
+- [ ] better image lightbox (spinner while loading -> fade in when done)
 - [ ] social networks
 - [ ] twitter account
+- [x] favicon
+- [x] better stuff in contact page
 - [x] google+ page
 - [x] facebook page
 - [x] random stuff in footer

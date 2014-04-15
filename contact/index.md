@@ -20,10 +20,10 @@ If you have any questions about what we are doing or would be interested in spon
 If you would like to visit and see our car then just head over to:
 
 <ul class="fa-ul">
-	<li><i class="fa-li fa fa-building-o"></i>Chelsea Academy,<br />
+	<li><i class="fa-li fa fa-map-marker"></i>Chelsea Academy,<br />
 Lots Road,<br />
 London,<br />
 SW10 0AB</li>
 	<li><i class="fa-li fa fa-phone-square"></i>020 7376 3019</li>
-	<li><i class="fa-li fa fa-globe"></i><a href="http://chelsea-academy.org/">chelsea-academy.org</a></li>
+	<li><i class="fa-li fa fa-share-square"></i><a href="http://chelsea-academy.org/">chelsea-academy.org</a></li>
 </ul>

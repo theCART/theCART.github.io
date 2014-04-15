@@ -13,3 +13,6 @@ Templates and libraries
 -----------------------
 ### Jquery-lighter
 http://ksylvest.github.io/jquery-lighter/
+
+### Template
+Based of Verti by http://html5up.net/

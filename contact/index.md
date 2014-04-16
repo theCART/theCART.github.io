@@ -14,7 +14,7 @@ If you have any questions about what we are doing or would be interested in spon
 <ul class="fa-ul">
 	<li><a href="https://www.facebook.com/angry.gecko.cart"><i class="fa-li fa fa-facebook-square"></i>Facebook</a></li>
 	<li><a href="https://plus.google.com/109525757211133772308"><i class="fa-li fa fa-google-plus-square"></i>Google+</a></li>
-	<li><i class="fa-li fa fa-envelope"></i>Email coming soon</a></li>
+	<li><i class="fa-li fa fa-envelope"></i>Email coming soon</li>
 </ul>
 
 If you would like to visit and see our car then just head over to:

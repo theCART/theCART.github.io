@@ -3,7 +3,7 @@ layout: right-sidebar-half
 title: Contact
 sidebar_content: |
  <section>
- <div class="h2-break"></div>
+ <div class="h2-break no-mobile"></div>
  <iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=Chelsea%20Academy%2C%20Lots%20Road%2C%20London%2C%20United%20Kingdom&amp;key=AIzaSyD9KoSnJ7Z8AaIocZoqvRE1owEj9af01vY"></iframe>
  </section>
 ---

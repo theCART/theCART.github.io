@@ -9,15 +9,19 @@ sidebar_content: |
 ---
 ##{{ page.title }}
 
-The car is currently under development and we are working tirelessly to make sure that we have a completed vehicle to race at [Goodwood](http://www.goodwood.co.uk/home.aspx) this year. However, we will be needing as much support as possible from you to ensure that we stand a great chance of competing in the Greenpower race.
+Like any race team we need funding and help to develop our car. We were very lucky to get initial funds from the [Chelsea Academy Foundation](http://chelsea-academy-foundation.org/), which allowed us to buy the kit for our chassis.  However we still need to pay for the rest of the car’s development and the cost of running the race team (Helmets, Driver and Pit Crew Overalls, race fees etc).
+
+We need your support to complete the development of the car and successfully race it. We are looking for both funding and the supply of expertise and materials.
+
+If you are a commercial organisation we are offering [sponsorship](/sponsors/) opportunities to advertise on our car and website and be linked with developing the engineering and business skills of young Londoners.
 
 Here are some of the ways in which you can help us:
 
-- Purchase one of our branded products, which will [may] be released soon.
-- Donate towards the development of our car.
-- Provide us with access to industrial equipment such as:
-  - CNC Milling machine
-  - Wind Tunnel
-  - Test track
+* Sponsor the car development (we need to buy materials for the bodywork, control electronics etc)
+* Sponsor Driver clothing (overalls, helmets, shoes and gloves)
+* Sponsor Pit Crew clothing (overalls, boots, hats)
+* Provide transport (we need a trailer and a vehicle to pull it)
+* Help us build a better car! If you have engineering expertise in designing and building chassis, bodywork or electronics we would love to hear from you!
+* Come and support us at the races!
 
-If you have any questions or queries on how you help support us or donate, please do not hesitate to [contact us](/contact/).
+If you can help in any of these areas please [contact us](/contact/).

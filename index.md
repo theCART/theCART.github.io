@@ -14,8 +14,10 @@ sidebar_content: |
 ---
 ## So what's this all about?
 
-We’re a group of students building and designing an electric car to compete in the [Greenpower IET Formula F24](http://www.greenpower.co.uk/racing/formula24) race at the end of the year. The London heats will be taking place this June.
+We’re a group of students at [Chelsea Academy](http://chelsea-academy.org/) designing and building an electric car to compete in the [Greenpower IET Formula F24](http://www.greenpower.co.uk/racing/formula24) race.
 
-The young engineers working on this project are between 13 and 19 years old. Most of us intend to study mechanical engineering in the near future.
+The students working on the project are between 13 and 19 years old. Many of us plan to study engineering in the future.
 
-The Chelsea Academy Racing Team (CART) enrichment is an exciting prospect for young, aspiring engineers to develop their range of knowledge and skills in a fun and educational way. This is an exciting opportunity for everyone at [Chelsea Academy](http://chelsea-academy.org/) as we are pioneering this enrichment for the first time.
+As well as the engineering challenge of building the car we have to fund and run the race team. So as well as developing our engineering skills this is also teaching us Project Management and Marketing skills, which are essential in any successful business enterprise.
+
+The Chelsea Academy Racing Team (CART) enrichment is an exciting prospect for young, aspiring engineers to develop their range of knowledge and skills in a fun and educational way.

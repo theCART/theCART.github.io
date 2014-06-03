@@ -4,14 +4,24 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+/*********************************************************************************/
+/* Angry-gecko Custom                                                                         */
+/*********************************************************************************/
+
 #main-wrapper .fa-li
 {
 	top: 0;
 }
 
-/*********************************************************************************/
-/* Angry-gecko Custom                                                                         */
-/*********************************************************************************/
+	#copyright
+	{
+		text-align: center;
+	}
+
+	#copyright .footer-element
+	{
+		display: block;
+	}
 
 	.no-mobile
 	{

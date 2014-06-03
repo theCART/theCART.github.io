@@ -2,6 +2,41 @@
 /* Custom stuff by shaun                                                         */
 /*********************************************************************************/
 
+.full-width
+{
+	width: 100%;
+}
+
+.center
+{
+	text-align: center;
+}
+
+.right
+{
+	text-align: right;
+}
+
+.no-bottom-margin
+{
+	margin-bottom: 0;
+}
+
+.no-underline
+{
+	text-decoration: none;
+}
+
+.underline
+{
+	text-decoration: underline;
+}
+
+a:hover .underline
+{
+	text-decoration: none;
+}
+
 *::selection {
 	background: #99DE59;
 }
@@ -102,21 +137,22 @@ h1, h2, h3, h4, h5, h6
 	text-decoration: none;
 }
 
-/* Font size adjustments in the main-wrapper section only. EM's only */
-#main-wrapper
+/* Font size adjustments in the main content sections only. EM's only */
+/* footer and headers unadjusted */
+.multi-banner, #main-wrapper
 {
 	font-size: 1.4em;
 }
-#main-wrapper h2
+.multi-banner h2, #main-wrapper h2
 {
 	font-size: 2em;
 }
-#main-wrapper h3
+.multi-banner h3, #main-wrapper h3
 {
 	font-size: 1.2em;
 	margin: 0 0 1.5em 0;
 }
-#main-wrapper .button
+#main-wrapper .button, .multi-banner .button
 {
 	font-size: 1.1em;
 }

@@ -7,10 +7,12 @@ name: Angry Gecko
 navigation:
   - title: Home
     url: /
-  - title: Who We Are
+  - title: The Team
     url: /who-we-are/
-  - title: How You Can Help
+  - title: Get Involved
     url: /how-you-can-help/
+  - title: Development
+    url: /developing-the-car/
   - title: Sponsors
     url: /sponsors/
   - title: Contact
@@ -42,7 +44,8 @@ footer_main: |
      <section class="widget-links">
        <h2><a href="/sponsors/">Sponsors</a></h2>
        <ul class="style2">
-         <li><a href="/contact/">You could be here</a></li>
+         <li><a href="http://chelsea-academy.org/">Chelsea Academy</a></li>
+         <li><a href="http://chelsea-academy-foundation.org/">Chelsea Academy Foundation</a></li>
        </ul>
      </section>
  
@@ -53,7 +56,8 @@ footer_main: |
      <section class="widget-links">
        <h2><a href="/sponsors/">Sponsors</a></h2>
        <ul class="style2">
-         <li><a href="/contact/">This space is for sale</a></li>
+         <li><a href="http://www.alliants.com/">Alliants</a></li>
+         <li><a href="http://www.korteq.com/">KorteQ</a></li>
        </ul>
      </section>
  

@@ -19,6 +19,16 @@
 	display: inline-block;
 }
 
+.right-desktop
+{
+	text-align: right;
+}
+
+.center-desktop
+{
+	text-align: center;
+}
+
 /*********************************************************************************/
 /* Basic                                                                         */
 /*********************************************************************************/
@@ -215,7 +225,7 @@
 			{
 				float: left;
 				line-height: 4.5em;
-				padding-left: 1.5em;
+				padding-left: .8em;
 			}
 
 				#nav ul li a

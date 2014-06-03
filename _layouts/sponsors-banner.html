@@ -1,0 +1,64 @@
+{% include top.html %}
+<!-- Begin Banner Wrappers -->
+{% for sponsor in page.sponsors %}
+	<div id="banner-wrapper" class="multi-banner">
+		<div class="container">
+			<div class="row">
+				<div class="12u">
+				
+					<!-- Banner -->
+						<div class="box">
+
+							<div>
+								<div class="row">
+									<div class="8u">
+										<h2>{{ sponsor.name }}</h2>
+										<p class="no-bottom-margin">{{ sponsor.short_desc }}</p>
+									</div>
+									<div class="4u center-desktop">
+     								<a href="{{ sponsor.link_uri }}" class="image full-width"><img src="{{ sponsor.img_src }}" alt="{{ sponsor.img_alt }}" /></a>
+									</div>
+								</div>
+								<div class="row">
+									<div class="8u">
+										{{ sponsor.read_more_link }}
+									</div>
+									<div class="4u center-desktop">
+										<a href="{{ sponsor.link_uri }}" class="no-underline"><i class="fa fa-share-square"></i> <span class="underline">{{ sponsor.link_text }}</span></a>
+									</div>
+								</div>
+							</div>
+						
+						</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+{% endfor %}
+<!-- End Banner Wrappers -->
+
+		<!-- Main Wrapper -->
+			<div id="main-wrapper">
+				<div class="container">
+					<div class="row">
+						<div class="8u skel-cell-important">
+
+							<!-- Content -->
+								<div id="content">
+									<article class="last">
+										{{ content }}
+									</article>
+								</div>
+
+						</div>
+						<div class="4u">
+						
+							<!-- Sidebar -->
+								<div id="sidebar">{{ page.sidebar_content }}</div>
+						
+						</div>
+					</div>
+				</div>
+			</div>
+{% include bottom.html %}

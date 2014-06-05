@@ -15,7 +15,7 @@ As a tangible commitment to "engineering a greener future", KorteQ has chosen to
 
 Greenpower's slogan "Inspiring Engineers" perfectly complements KorteQ's core business. We support some of the world's most advanced clean energy capabilities at EDF Energy and are helping to sustain and develop the UK's engineering heritage, in power systems and elsewhere. KorteQ's dynamic approach to cloud-based collaboration methods and technologies is powering mission-critical programmes at a wide range of clients.
 
-As [reported in the Daily Telegraph (pdf)](link), KorteQ's web-based services are proving that there's a strong business case for switching to Green ICT solutions.
+As [reported in the Daily Telegraph (pdf)](/doc/Telegraph_Article_24Oct2010.pdf), KorteQ's web-based services are proving that there's a strong business case for switching to Green ICT solutions.
 
 Paul Adler recently addressed the International New Energy Forum conference in Xian, on the topic [“The Engineering Workforce: Modernising Learning, Development and Collaboration”](http://www.korteq.com/commercial/chinese-whispers/). 
 

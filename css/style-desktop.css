@@ -29,6 +29,17 @@
 	text-align: center;
 }
 
+#main-wrapper .container .row
+{
+	position: relative;
+}
+
+#main-wrapper #sidebar .pos-bottom-left
+{
+	position: absolute;
+	bottom: 0;
+}
+
 /*********************************************************************************/
 /* Basic                                                                         */
 /*********************************************************************************/

@@ -2,10 +2,14 @@
 layout: right-sidebar
 title: How You Can Help
 sidebar_content: |
- <section>
- <div class="h2-break"></div>
- <a href="/images/angry-gecko-02-batteries-large.png" class="image image-full" data-lighter data-width="1344" data-height="900"><img src="/images/angry-gecko-02-batteries.jpg" alt="Batteries" /></a>
- </section>
+  <section>
+    <div class="h2-break"></div>
+    <a href="/images/angry-gecko-02-batteries-large.png" class="image image-full" data-lighter data-width="1344" data-height="900"><img src="/images/angry-gecko-02-batteries.jpg" alt="Batteries" /></a>
+    <div class="pos-bottom-left">
+      <p>If you can help in any of these areas please</p>
+      <a href="/contact/" class="button fa fa-phone-square">Contact Us</a>
+    </div>
+  </section>
 ---
 ##{{ page.title }}
 
@@ -23,5 +27,3 @@ Here are some of the ways in which you can help us:
 * Provide transport (we need a trailer and a vehicle to pull it)
 * Help us build a better car! If you have engineering expertise in designing and building chassis, bodywork or electronics we would love to hear from you!
 * Come and support us at the races!
-
-If you can help in any of these areas please [contact us](/contact/).

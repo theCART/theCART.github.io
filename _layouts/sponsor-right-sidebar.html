@@ -1,0 +1,31 @@
+{% include top.html %}
+		<!-- Main Wrapper -->
+			<div id="main-wrapper">
+				<div class="container">
+					<div class="row">
+						<div class="8u">
+							<div id="content">
+								{{ content }}
+							</div>
+						</div>
+						<div class="4u">
+								<div class="h2-break"></div>
+								<a href="{{ page.link_uri }}" class="image full-width"><img src="{{ page.img_src }}" alt="{{ page.img_alt }}" /></a>
+								<div class="h2-break"></div>
+							<ul class="fa-ul">
+							{% for link in page.links %}
+								<li><a href="{{ link.link_uri }}"><i class="fa-li fa fa-share-square"></i>{{ link.link_text }}</a></li>
+							{% endfor %}
+							</ul>
+						</div>
+					</div>
+					<div class="row">
+						<div class="8u">
+							Return to <a href="/sponsors/">Sponsors</a> page
+						</div>
+						<div class="4u">
+						</div>
+					</div>
+				</div>
+			</div>
+{% include bottom.html %}

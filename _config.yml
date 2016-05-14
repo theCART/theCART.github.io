@@ -81,7 +81,6 @@ footer_main: |
 #######################
 
 markdown: redcarpet
-pygments: true
 safe: true
 timezone: Europe/London
 encoding: utf-8
